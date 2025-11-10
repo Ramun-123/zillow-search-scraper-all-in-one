@@ -1,0 +1,29 @@
+[
+  {
+    "zpid": "33.050133--96.92441",
+    "providerListingId": "15jdasgex0kyu",
+    "statusType": "FOR_RENT",
+    "statusText": "Aura Avant",
+    "imageSource": "https://photos.zillowstatic.com/fp/dd55598b7060d20ccdafbaaa56a759d6-p_e.jpg",
+    "detailUrl": "https://www.zillow.com/apartments/lewisville-tx/aura-avant/CmR944/",
+    "address": "2200 E State Highway 121, The Colony, TX",
+    "addressStreet": "2200 E State Highway 121",
+    "addressCity": "The Colony",
+    "addressState": "TX",
+    "addressZipcode": null,
+    "latitude": 33.050133,
+    "longitude": -96.92441,
+    "buildingName": null,
+    "contactPhoneNumber": null,
+    "minPrice": "$1,640",
+    "maxPrice": "$2,470",
+    "unitTypes": "1 bed, 2 bed",
+    "totalUnits": null,
+    "photoUrls": [
+      "https://photos.zillowstatic.com/fp/dd55598b7060d20ccdafbaaa56a759d6-p_e.jpg",
+      "https://photos.zillowstatic.com/fp/0f715e9b2d74af7a30e73930b7357a41-p_e.jpg"
+    ],
+    "isFeaturedListing": null,
+    "badgeText": null
+  }
+]
