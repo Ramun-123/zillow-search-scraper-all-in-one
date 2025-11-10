@@ -1,0 +1,17 @@
+{
+  "search": {
+    "cities": [
+      "The Colony, TX"
+    ],
+    "listingTypes": [
+      "for_rent"
+    ],
+    "homeTypes": [],
+    "maxPages": 1,
+    "language": "en-US"
+  },
+  "output": {
+    "format": "json",
+    "path": "data/output.sample.json"
+  }
+}
